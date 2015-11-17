@@ -17,4 +17,4 @@ The app should launch
 ### Result I'm seeing:
 Migration failure
 
--BJ
+I'm especially interested to see if the data model files change substantially when built with Xcode 7.0.1 vs 7.1.1
