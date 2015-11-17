@@ -303,7 +303,7 @@
 				B71F03661BFAF29A004D69EE /* CoreDataMigration 2.xcdatamodel */,
 				B772A2AE1BFAEE7B002000B8 /* CoreDataMigration.xcdatamodel */,
 			);
-			currentVersion = B772A2AE1BFAEE7B002000B8 /* CoreDataMigration.xcdatamodel */;
+			currentVersion = B71F03661BFAF29A004D69EE /* CoreDataMigration 2.xcdatamodel */;
 			path = CoreDataMigration.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
