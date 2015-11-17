@@ -6,10 +6,10 @@
 4. Quit the app.
 5. Select `CoreDataMigration.xcdatamodeld`
 6. Change the model version to `CoreDataMigration 2`
+7. Run the app again.
 
 ![](ModelVersion.png)
 
-7. Run the app again.
 
 ### Expected Result:
 The app should launch
