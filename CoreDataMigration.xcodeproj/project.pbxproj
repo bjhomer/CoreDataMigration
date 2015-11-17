@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B71F03661BFAF29A004D69EE /* CoreDataMigration 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "CoreDataMigration 2.xcdatamodel"; sourceTree = "<group>"; };
 		B772A2A11BFAEE7B002000B8 /* CoreDataMigration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreDataMigration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B772A2A41BFAEE7B002000B8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B772A2A51BFAEE7B002000B8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -291,6 +292,7 @@
 				B772A2BA1BFAEE7B002000B8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
@@ -298,6 +300,7 @@
 		B772A2AD1BFAEE7B002000B8 /* CoreDataMigration.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
+				B71F03661BFAF29A004D69EE /* CoreDataMigration 2.xcdatamodel */,
 				B772A2AE1BFAEE7B002000B8 /* CoreDataMigration.xcdatamodel */,
 			);
 			currentVersion = B772A2AE1BFAEE7B002000B8 /* CoreDataMigration.xcdatamodel */;
